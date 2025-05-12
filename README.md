@@ -33,6 +33,6 @@
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="">Github</a></li>
+  <li>Github: <a href="">https://github.com/Farhandhika-N/UTS_PBO2_K23A_23552011203.git</a></li>
   <li>Google Drive: <a href="">https://drive.google.com/drive/folders/1A8ZO1xfPjAxBKTMXkcIEu_DSsnIzoAtZ?usp=sharing</a></li>
 </ul>
